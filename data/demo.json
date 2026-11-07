@@ -1,0 +1,8 @@
+{
+  "profiles": [
+    {"id":"northstar","name":"Northstar Creator House","creators":8,"monthlyRevenue":42000,"platformDependence":84,"archiveCoverage":46,"portableContacts":24,"standbyReady":false,"sponsorEvidence":true,"lastDrillDays":240},
+    {"id":"signal","name":"Signal & Story Studio","creators":14,"monthlyRevenue":88000,"platformDependence":68,"archiveCoverage":78,"portableContacts":55,"standbyReady":true,"sponsorEvidence":true,"lastDrillDays":96},
+    {"id":"solo","name":"Maya Chen Studio","creators":1,"monthlyRevenue":12000,"platformDependence":92,"archiveCoverage":90,"portableContacts":18,"standbyReady":false,"sponsorEvidence":false,"lastDrillDays":420}
+  ],
+  "ruleVersion": "2026.11.07"
+}
